@@ -1,0 +1,430 @@
+Game started.
+Odd Player started the game.
+Odd player opened cell [0, 0] with value 53
+Even Player Score: 0, Odd Player Score: 53
+Even player opened cell [3, 3] with value 18
+Even Player Score: 18, Odd Player Score: 53
+Odd player opened cell [1, 0] with value 18
+Even Player Score: 18, Odd Player Score: 35
+Even player opened cell [3, 2] with value 19
+Even Player Score: -1, Odd Player Score: 35
+Odd player opened cell [0, 3] with value 87
+Even Player Score: -1, Odd Player Score: 122
+Even player opened cell [1, 2] with value 37
+Even Player Score: -38, Odd Player Score: 122
+Odd player opened cell [2, 3] with value 46
+Even Player Score: -38, Odd Player Score: 76
+Even player opened cell [0, 2] with value 61
+Even Player Score: -99, Odd Player Score: 76
+Odd player opened cell [3, 0] with value 80
+Even Player Score: -99, Odd Player Score: -4
+Even player opened cell [2, 0] with value 6
+Even Player Score: -93, Odd Player Score: -4
+Odd player opened cell [1, 1] with value 67
+Even Player Score: -93, Odd Player Score: 63
+Even player opened cell [2, 1] with value 42
+Even Player Score: -51, Odd Player Score: 63
+Odd player opened cell [1, 3] with value 34
+Even Player Score: -51, Odd Player Score: 29
+Even player opened cell [2, 2] with value 48
+Even Player Score: -3, Odd Player Score: 29
+Odd player opened cell [0, 1] with value 36
+Even Player Score: -3, Odd Player Score: -7
+Even player opened cell [3, 1] with value 75
+Even Player Score: -78, Odd Player Score: -7
+Odd player wins!
+Opened Matrix: 
+53 36 61 87 
+18 67 37 34 
+6 42 48 46 
+80 75 19 18 
+Game ended.
+
+
+Game started.
+Odd Player started the game.
+Odd player opened cell [3, 0] with value 73
+Even Player Score: 0, Odd Player Score: 73
+Even player opened cell [3, 3] with value 95
+Even Player Score: -95, Odd Player Score: 73
+Odd player opened cell [3, 2] with value 28
+Even Player Score: -95, Odd Player Score: 45
+Even player opened cell [2, 2] with value 44
+Even Player Score: -51, Odd Player Score: 45
+Odd player opened cell [2, 0] with value 1
+Even Player Score: -51, Odd Player Score: 46
+Even player opened cell [1, 0] with value 40
+Even Player Score: -11, Odd Player Score: 46
+Odd player opened cell [0, 0] with value 59
+Even Player Score: -11, Odd Player Score: 105
+Even player opened cell [1, 3] with value 66
+Even Player Score: 55, Odd Player Score: 105
+Odd player opened cell [2, 3] with value 43
+Even Player Score: 55, Odd Player Score: 148
+Even player opened cell [1, 1] with value 10
+Even Player Score: 65, Odd Player Score: 148
+Odd player opened cell [0, 1] with value 41
+Even Player Score: 65, Odd Player Score: 189
+Even player opened cell [0, 2] with value 63
+Even Player Score: 2, Odd Player Score: 189
+Odd player opened cell [0, 3] with value 82
+Even Player Score: 2, Odd Player Score: 107
+Even player opened cell [3, 1] with value 47
+Even Player Score: -45, Odd Player Score: 107
+Odd player opened cell [1, 2] with value 12
+Even Player Score: -45, Odd Player Score: 95
+Even player opened cell [2, 1] with value 1
+Even Player Score: -46, Odd Player Score: 95
+Odd player wins!
+Opened Matrix: 
+59 41 63 82 
+40 10 12 66 
+1 1 44 43 
+73 47 28 95 
+Game ended.
+
+
+Game started.
+Even Player started the game.
+Even player opened cell [1, 2] with value 10
+Even Player Score: 10, Odd Player Score: 0
+Odd player opened cell [3, 2] with value 85
+Even Player Score: 10, Odd Player Score: 85
+Even player opened cell [2, 1] with value 7
+Even Player Score: 3, Odd Player Score: 85
+Odd player opened cell [0, 3] with value 77
+Even Player Score: 3, Odd Player Score: 162
+Even player opened cell [0, 2] with value 37
+Even Player Score: -34, Odd Player Score: 162
+Odd player opened cell [2, 3] with value 65
+Even Player Score: -34, Odd Player Score: 227
+Even player opened cell [2, 2] with value 36
+Even Player Score: 2, Odd Player Score: 227
+Odd player opened cell [1, 0] with value 62
+Even Player Score: 2, Odd Player Score: 165
+Even player opened cell [1, 1] with value 52
+Even Player Score: 54, Odd Player Score: 165
+Odd player opened cell [0, 1] with value 69
+Even Player Score: 54, Odd Player Score: 234
+Even player opened cell [1, 3] with value 75
+Even Player Score: -21, Odd Player Score: 234
+Odd player opened cell [3, 0] with value 90
+Even Player Score: -21, Odd Player Score: 144
+Even player opened cell [3, 3] with value 24
+Even Player Score: 3, Odd Player Score: 144
+Odd player opened cell [2, 0] with value 95
+Even Player Score: 3, Odd Player Score: 239
+Even player opened cell [0, 0] with value 41
+Even Player Score: -38, Odd Player Score: 239
+Odd player opened cell [3, 1] with value 20
+Even Player Score: -38, Odd Player Score: 219
+Odd player wins!
+Opened Matrix: 
+41 69 37 77 
+62 52 10 75 
+95 7 36 65 
+90 20 85 24 
+Game ended.
+
+
+Game started.
+Even Player started the game.
+Even player opened cell [2, 3] with value 34
+Even Player Score: 34, Odd Player Score: 0
+Odd player opened cell [0, 0] with value 95
+Even Player Score: 34, Odd Player Score: 95
+Even player opened cell [1, 1] with value 43
+Even Player Score: -9, Odd Player Score: 95
+Odd player opened cell [3, 0] with value 83
+Even Player Score: -9, Odd Player Score: 178
+Even player opened cell [0, 3] with value 20
+Even Player Score: 11, Odd Player Score: 178
+Odd player opened cell [1, 3] with value 7
+Even Player Score: 11, Odd Player Score: 185
+Even player opened cell [3, 3] with value 77
+Even Player Score: -66, Odd Player Score: 185
+Odd player opened cell [0, 2] with value 63
+Even Player Score: -66, Odd Player Score: 248
+Even player opened cell [2, 2] with value 56
+Even Player Score: -10, Odd Player Score: 248
+Odd player opened cell [2, 1] with value 42
+Even Player Score: -10, Odd Player Score: 206
+Even player opened cell [1, 0] with value 60
+Even Player Score: 50, Odd Player Score: 206
+Odd player opened cell [3, 1] with value 92
+Even Player Score: 50, Odd Player Score: 114
+Even player opened cell [3, 2] with value 66
+Even Player Score: 116, Odd Player Score: 114
+Odd player opened cell [0, 1] with value 97
+Even Player Score: 116, Odd Player Score: 211
+Even player opened cell [2, 0] with value 66
+Even Player Score: 182, Odd Player Score: 211
+Odd player opened cell [1, 2] with value 32
+Even Player Score: 182, Odd Player Score: 179
+Even player wins!
+Opened Matrix: 
+95 97 63 20 
+60 43 32 7 
+66 42 56 34 
+83 92 66 77 
+Game ended.
+
+
+Game started.
+Odd Player started the game.
+Odd player opened cell [0, 0] with value 24
+Even Player Score: 0, Odd Player Score: -24
+Even player opened cell [1, 2] with value 7
+Even Player Score: -7, Odd Player Score: -24
+Odd player opened cell [1, 1] with value 86
+Even Player Score: -7, Odd Player Score: -110
+Even player opened cell [2, 2] with value 52
+Even Player Score: 45, Odd Player Score: -110
+Odd player opened cell [1, 3] with value 64
+Even Player Score: 45, Odd Player Score: -174
+Even player opened cell [0, 3] with value 15
+Even Player Score: 30, Odd Player Score: -174
+Odd player opened cell [3, 2] with value 47
+Even Player Score: 30, Odd Player Score: -127
+Even player opened cell [0, 2] with value 13
+Even Player Score: 17, Odd Player Score: -127
+Odd player opened cell [3, 0] with value 77
+Even Player Score: 17, Odd Player Score: -50
+Even player opened cell [3, 1] with value 40
+Even Player Score: 57, Odd Player Score: -50
+Odd player opened cell [2, 3] with value 80
+Even Player Score: 57, Odd Player Score: -130
+Even player opened cell [0, 1] with value 74
+Even Player Score: 131, Odd Player Score: -130
+Odd player opened cell [1, 0] with value 6
+Even Player Score: 131, Odd Player Score: -136
+Even player opened cell [2, 0] with value 9
+Even Player Score: 122, Odd Player Score: -136
+Odd player opened cell [2, 1] with value 48
+Even Player Score: 122, Odd Player Score: -184
+Even player opened cell [3, 3] with value 29
+Even Player Score: 93, Odd Player Score: -184
+Even player wins!
+Opened Matrix: 
+24 74 13 15 
+6 86 7 64 
+9 48 52 80 
+77 40 47 29 
+Game ended.
+
+
+Game started.
+Even Player started the game.
+Even player opened cell [1, 2] with value 5
+Even Player Score: -5, Odd Player Score: 0
+Odd player opened cell [0, 1] with value 78
+Even Player Score: -5, Odd Player Score: -78
+Even player opened cell [2, 1] with value 7
+Even Player Score: -12, Odd Player Score: -78
+Odd player opened cell [3, 3] with value 82
+Even Player Score: -12, Odd Player Score: -160
+Even player opened cell [1, 1] with value 4
+Even Player Score: -8, Odd Player Score: -160
+Odd player opened cell [2, 2] with value 20
+Even Player Score: -8, Odd Player Score: -180
+Even player opened cell [0, 2] with value 63
+Even Player Score: -71, Odd Player Score: -180
+Odd player opened cell [1, 3] with value 24
+Even Player Score: -71, Odd Player Score: -204
+Even player opened cell [2, 3] with value 1
+Even Player Score: -72, Odd Player Score: -204
+Odd player opened cell [3, 1] with value 65
+Even Player Score: -72, Odd Player Score: -139
+Even player opened cell [3, 2] with value 4
+Even Player Score: -68, Odd Player Score: -139
+Odd player opened cell [3, 0] with value 18
+Even Player Score: -68, Odd Player Score: -157
+Even player opened cell [2, 0] with value 80
+Even Player Score: 12, Odd Player Score: -157
+Odd player opened cell [0, 0] with value 30
+Even Player Score: 12, Odd Player Score: -187
+Even player opened cell [1, 0] with value 4
+Even Player Score: 16, Odd Player Score: -187
+Odd player opened cell [0, 3] with value 11
+Even Player Score: 16, Odd Player Score: -176
+Even player wins!
+Opened Matrix: 
+30 78 63 11 
+4 4 5 24 
+80 7 20 1 
+18 65 4 82 
+Game ended.
+
+
+Game started.
+Odd Player started the game.
+Odd player opened cell [1, 0] with value 26
+Even Player Score: 0, Odd Player Score: -26
+Even player opened cell [3, 0] with value 35
+Even Player Score: -35, Odd Player Score: -26
+Odd player opened cell [3, 3] with value 11
+Even Player Score: -35, Odd Player Score: -15
+Even player opened cell [3, 2] with value 62
+Even Player Score: 27, Odd Player Score: -15
+Odd player opened cell [2, 0] with value 74
+Even Player Score: 27, Odd Player Score: -89
+Even player opened cell [0, 3] with value 6
+Even Player Score: 33, Odd Player Score: -89
+Odd player opened cell [1, 3] with value 57
+Even Player Score: 33, Odd Player Score: -32
+Even player opened cell [0, 0] with value 84
+Even Player Score: 117, Odd Player Score: -32
+Odd player opened cell [2, 1] with value 93
+Even Player Score: 117, Odd Player Score: 61
+Even player opened cell [0, 2] with value 89
+Even Player Score: 28, Odd Player Score: 61
+Odd player opened cell [1, 1] with value 47
+Even Player Score: 28, Odd Player Score: 108
+Even player opened cell [2, 2] with value 40
+Even Player Score: 68, Odd Player Score: 108
+Odd player opened cell [0, 1] with value 30
+Even Player Score: 68, Odd Player Score: 78
+Even player opened cell [1, 2] with value 27
+Even Player Score: 41, Odd Player Score: 78
+Odd player opened cell [3, 1] with value 37
+Even Player Score: 41, Odd Player Score: 115
+Even player opened cell [2, 3] with value 98
+Even Player Score: 139, Odd Player Score: 115
+Even player wins!
+Opened Matrix: 
+84 30 89 6 
+26 47 27 57 
+74 93 40 98 
+35 37 62 11 
+Game ended.
+
+
+Game started.
+Even Player started the game.
+Even player opened cell [2, 3] with value 44
+Even Player Score: 44, Odd Player Score: 0
+Odd player opened cell [2, 0] with value 69
+Even Player Score: 44, Odd Player Score: 69
+Even player opened cell [0, 2] with value 39
+Even Player Score: 5, Odd Player Score: 69
+Odd player opened cell [2, 2] with value 84
+Even Player Score: 5, Odd Player Score: -15
+Even player opened cell [1, 3] with value 41
+Even Player Score: -36, Odd Player Score: -15
+Odd player opened cell [3, 1] with value 37
+Even Player Score: -36, Odd Player Score: 22
+Even player opened cell [3, 0] with value 52
+Even Player Score: 16, Odd Player Score: 22
+Odd player opened cell [1, 0] with value 24
+Even Player Score: 16, Odd Player Score: -2
+Even player opened cell [3, 3] with value 39
+Even Player Score: -23, Odd Player Score: -2
+Odd player opened cell [2, 1] with value 76
+Even Player Score: -23, Odd Player Score: -78
+Even player opened cell [0, 0] with value 42
+Even Player Score: 19, Odd Player Score: -78
+Odd player opened cell [0, 3] with value 25
+Even Player Score: 19, Odd Player Score: -53
+Even player opened cell [0, 1] with value 35
+Even Player Score: -16, Odd Player Score: -53
+Odd player opened cell [1, 2] with value 2
+Even Player Score: -16, Odd Player Score: -55
+Even player opened cell [3, 2] with value 43
+Even Player Score: -59, Odd Player Score: -55
+Odd player opened cell [1, 1] with value 37
+Even Player Score: -59, Odd Player Score: -18
+Odd player wins!
+Opened Matrix: 
+42 35 39 25 
+24 37 2 41 
+69 76 84 44 
+52 37 43 39 
+Game ended.
+
+
+Game started.
+Even Player started the game.
+Even player opened cell [3, 1] with value 86
+Even Player Score: 86, Odd Player Score: 0
+Odd player opened cell [1, 2] with value 52
+Even Player Score: 86, Odd Player Score: -52
+Even player opened cell [2, 0] with value 64
+Even Player Score: 150, Odd Player Score: -52
+Odd player opened cell [0, 0] with value 47
+Even Player Score: 150, Odd Player Score: -5
+Even player opened cell [2, 3] with value 89
+Even Player Score: 61, Odd Player Score: -5
+Odd player opened cell [1, 0] with value 70
+Even Player Score: 61, Odd Player Score: -75
+Even player opened cell [3, 3] with value 92
+Even Player Score: 153, Odd Player Score: -75
+Odd player opened cell [2, 2] with value 76
+Even Player Score: 153, Odd Player Score: -151
+Even player opened cell [2, 1] with value 34
+Even Player Score: 187, Odd Player Score: -151
+Odd player opened cell [0, 3] with value 44
+Even Player Score: 187, Odd Player Score: -195
+Even player opened cell [3, 2] with value 100
+Even Player Score: 287, Odd Player Score: -195
+Odd player opened cell [1, 3] with value 97
+Even Player Score: 287, Odd Player Score: -98
+Even player opened cell [3, 0] with value 21
+Even Player Score: 266, Odd Player Score: -98
+Odd player opened cell [0, 1] with value 87
+Even Player Score: 266, Odd Player Score: -11
+Even player opened cell [1, 1] with value 80
+Even Player Score: 346, Odd Player Score: -11
+Odd player opened cell [0, 2] with value 41
+Even Player Score: 346, Odd Player Score: 30
+Even player wins!
+Opened Matrix: 
+47 87 41 44 
+70 80 52 97 
+64 34 76 89 
+21 86 100 92 
+Game ended.
+
+
+Game started.
+Even Player started the game.
+Even player opened cell [0, 3] with value 15
+Even Player Score: -15, Odd Player Score: 0
+Odd player opened cell [3, 2] with value 9
+Even Player Score: -15, Odd Player Score: 9
+Even player opened cell [0, 1] with value 91
+Even Player Score: -106, Odd Player Score: 9
+Odd player opened cell [1, 3] with value 82
+Even Player Score: -106, Odd Player Score: -73
+Even player opened cell [0, 0] with value 1
+Even Player Score: -107, Odd Player Score: -73
+Odd player opened cell [3, 3] with value 45
+Even Player Score: -107, Odd Player Score: -28
+Even player opened cell [1, 0] with value 68
+Even Player Score: -39, Odd Player Score: -28
+Odd player opened cell [2, 0] with value 35
+Even Player Score: -39, Odd Player Score: 7
+Even player opened cell [3, 0] with value 63
+Even Player Score: -102, Odd Player Score: 7
+Odd player opened cell [1, 2] with value 98
+Even Player Score: -102, Odd Player Score: -91
+Even player opened cell [0, 2] with value 15
+Even Player Score: -117, Odd Player Score: -91
+Odd player opened cell [1, 1] with value 46
+Even Player Score: -117, Odd Player Score: -137
+Even player opened cell [2, 2] with value 49
+Even Player Score: -166, Odd Player Score: -137
+Odd player opened cell [2, 1] with value 40
+Even Player Score: -166, Odd Player Score: -177
+Even player opened cell [3, 1] with value 58
+Even Player Score: -108, Odd Player Score: -177
+Odd player opened cell [2, 3] with value 34
+Even Player Score: -108, Odd Player Score: -211
+Even player wins!
+Opened Matrix: 
+1 91 15 15 
+68 46 98 82 
+35 40 49 34 
+63 58 9 45 
+Game ended.
+
+

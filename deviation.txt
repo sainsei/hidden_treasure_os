@@ -1,0 +1,29 @@
+Deviation from the Initial Plan and Implemented Solution
+
+1. Logging Mechanism:
+    Initial Plan: The initial plan did not explicitly mention a logging mechanism for the game events.
+    Implemented Solution: The implemented code includes a logging mechanism that writes game events to a "game_log.txt" file.
+    
+2. Random Starting Player:
+    Initial Plan: The initial plan did not specify how the starting player (Even or Odd) should be determined.
+    Implemented Solution: The code chooses the starting player randomly, ensuring fairness in the game. 
+
+3. Mutex Locks for Score Updates:
+    Initial Plan: While the plan did mention using synchronization mechanisms, it didn't specifically detail the use of mutex locks for updating player scores.
+    Implemented Solution: The code effectively uses mutex locks (`even_lock` and `odd_lock`) to protect the critical sections of code where scores are updated. This ensures thread safety and prevents data races. 
+
+4. Dynamic Matrix Size and Maximum Random Number:
+    Initial Plan: The initial plan did not specify matrix size and how to choose the matrix numbers.
+    Implemented Solution: The code defines matrix size and maximum random number limits as constants (`MATRIX_SIZE` and `MAX_RANDOM_NUMBER`). This makes the implementation more versatile, allowing easy adjustment of game parameters by changing these constants.
+
+5. Graceful Termination:
+    Initial Plan: The initial plan mentioned thread termination but didn't elaborate on ensuring graceful termination.
+    Implemented Solution: The code correctly ensures that threads terminate gracefully when the game is over. 
+
+6. Dynamic Player Scores:
+    Initial Plan: The initial plan mentioned updating player scores but didn't detail how they would be managed.
+    Implemented Solution: The code uses dynamic variables (`even_score` and `odd_score`) to keep track of player scores. The mutex locks effectively manage score updates, and this dynamic scoring system accommodates any number of moves without a fixed array, making it scalable.
+
+Conclusion
+
+The implemented solution demonstrates not only adherence to the initial plan but also several enhancements that improve the game's functionality, reliability, and adaptability. The inclusion of a logging mechanism, random selection of the starting player, mutex locks for synchronization, dynamic game parameters, and a system for dynamic player scores collectively result in a more robust, engaging, and scalable game. These deviations from the initial plan contribute positively to the overall quality of the implementation, making it more complete and versatile. The code effectively implements the Even-Odd game with multi-threading, synchronization, and randomization as outlined in the initial plan.
